@@ -30,7 +30,7 @@ deps = [
     'urllib3>=1.23',
     'requests>=2.0.1',
     'PySocks>=1.6.8',
-    'cryptography>=39,<40',
+    'cryptography>=39,<45',
     'idna',
     'PyYAML>=5.1',
     'cachetools',
